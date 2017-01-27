@@ -1,0 +1,13 @@
+C:\Users\Mangesh G. Panchal\Desktop\Jewellery_Solution\Jewellery_Solution\bin\Debug\Jewellery_Solution.exe
+C:\Users\Mangesh G. Panchal\Desktop\Jewellery_Solution\Jewellery_Solution\bin\Debug\Jewellery_Solution.pdb
+C:\Users\Mangesh G. Panchal\Desktop\Jewellery_Solution\Jewellery_Solution\obj\Debug\Jewellery_Solution.Form1.resources
+C:\Users\Mangesh G. Panchal\Desktop\Jewellery_Solution\Jewellery_Solution\obj\Debug\Jewellery_Solution.Properties.Resources.resources
+C:\Users\Mangesh G. Panchal\Desktop\Jewellery_Solution\Jewellery_Solution\obj\Debug\Jewellery_Solution.csproj.GenerateResource.Cache
+C:\Users\Mangesh G. Panchal\Desktop\Jewellery_Solution\Jewellery_Solution\obj\Debug\Jewellery_Solution.exe.licenses
+C:\Users\Mangesh G. Panchal\Desktop\Jewellery_Solution\Jewellery_Solution\obj\Debug\Jewellery_Solution.exe
+C:\Users\Mangesh G. Panchal\Desktop\Jewellery_Solution\Jewellery_Solution\obj\Debug\Jewellery_Solution.pdb
+C:\Users\Mangesh G. Panchal\Desktop\Jewellery_Solution\Jewellery_Solution\obj\Debug\Jewellery_Solution.csprojResolveAssemblyReference.cache
+C:\Users\Mangesh G. Panchal\Desktop\Jewellery_Solution\Jewellery_Solution\obj\Debug\Jewellery_Solution.PrintRibbonControllerResources.resources
+C:\Users\Mangesh G. Panchal\Desktop\Jewellery_Solution\Jewellery_Solution\obj\Debug\Jewellery_Solution.Master_Entry.FrmCustomerMaster.resources
+C:\Users\Mangesh G. Panchal\Desktop\Jewellery_Solution\Jewellery_Solution\obj\Debug\Jewellery_Solution.Master_Entry.FrmWebCam.resources
+C:\Users\Mangesh G. Panchal\Desktop\Jewellery_Solution\Jewellery_Solution\obj\Debug\Jewellery_Solution.Master_Entry.SupplierMaster.resources
